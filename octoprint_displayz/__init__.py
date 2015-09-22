@@ -7,4 +7,5 @@ class DisplayZPlugin(octoprint.plugin.AssetPlugin):
 			js=["js/displayz.js"]
 		)
 
+__plugin_name__ = "DisplayZ"
 __plugin_implementation__ = DisplayZPlugin()
