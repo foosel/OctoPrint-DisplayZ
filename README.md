@@ -1,3 +1,5 @@
+> ✋ **Provided as is, no support, no maintenance**
+
 # DisplayZ
 
 Brings back the current Z display in the state sidebar panel.
