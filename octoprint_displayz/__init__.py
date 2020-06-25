@@ -8,4 +8,5 @@ class DisplayZPlugin(octoprint.plugin.AssetPlugin):
 		)
 
 __plugin_name__ = "DisplayZ"
+__plugin_pythoncompat__ = ">=2.7,<4"
 __plugin_implementation__ = DisplayZPlugin()
