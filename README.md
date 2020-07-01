@@ -1,4 +1,6 @@
 > ✋ **Provided as is, no support, no maintenance, issues will be auto-closed**
+>
+> [Interested in taking over maintenance?](https://github.com/foosel/OctoPrint-DisplayZ/issues/7)
 
 # DisplayZ
 
