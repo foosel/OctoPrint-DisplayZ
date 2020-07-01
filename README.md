@@ -1,4 +1,4 @@
-> ✋ **Provided as is, no support, no maintenance**
+> ✋ **Provided as is, no support, no maintenance, issues will be auto-closed**
 
 # DisplayZ
 
